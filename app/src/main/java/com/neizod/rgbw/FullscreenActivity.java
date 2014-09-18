@@ -7,7 +7,7 @@ import android.view.View;
 
 
 public class FullscreenActivity extends Activity {
-    private static final int AUTO_HIDE_DELAY_MILLIS = 2000;
+    private static final int AUTO_HIDE_DELAY_MILLIS = 3000;
     private Handler mHideHandler = new Handler();
     private Runnable mHideRunnable = new Runnable() {
         @Override
