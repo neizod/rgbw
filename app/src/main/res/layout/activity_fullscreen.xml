@@ -3,7 +3,8 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:fitsSystemWindows="true"
-    android:background="#0099cc"
+    android:background="#000000"
+    android:id="@+id/fullscreen_root"
     tools:context=".FullscreenActivity">
 
     <TextView android:id="@+id/fullscreen_content"
