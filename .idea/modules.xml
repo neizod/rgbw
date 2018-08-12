@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RGBW.iml" filepath="$PROJECT_DIR$/RGBW.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rgbw.iml" filepath="$PROJECT_DIR$/rgbw.iml" />
     </modules>
   </component>
 </project>
-
